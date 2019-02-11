@@ -15,6 +15,8 @@ This lab will review downloading and uncompressing files, and it will get us set
 
 Write the command that you used to do this below:
 ----------
+ent-v314-008:~ student$ pwd
+/Users/student
 
 
 
@@ -23,6 +25,8 @@ Write the command that you used to do this below:
 
 Write the command that you used to do this - as well as its output - below :
 ----------
+ent-v314-008:~ student$ pwd
+/Users/student
 
 
 
@@ -31,12 +35,26 @@ Write the command that you used to do this - as well as its output - below :
 
 Write the command(s) that you used to determine this - as well as its output - below:
 ----------
-
+ent-v314-008:~ student$ mkdir mtec1002
+mkdir: mtec1002: File exists
+ 
 
 
 ==========
 4. If there are directories or files in your home directory that have the word mtec1002 in them, list them below (otherwise skip this step):
 ----------
+ent-v314-008:~ student$ ls
+AMALogger20190109.log	Movies			ipe.properties
+AMALogger20190130.log	Music			isus
+Adlm			New Unity Project	kenshiro
+Adobe			Pictures		mtec1002
+Applications		Public			myfile.txt
+Desktop			QLData			persona
+Documents		Things			pizza
+Downloads		bacon			pymel.log
+Library			car.webp		xgen
+folder
+MPLABXProjects		google.html
 
 
 
@@ -51,7 +69,7 @@ $ rm -rf mtec1002-labs-02
 
 (skip if these directories don't exist)
 ----------
-
+ent-v314-008:~ student$ rm -rf student/mtec1002
 
 
 ==========
