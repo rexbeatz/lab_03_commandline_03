@@ -122,6 +122,7 @@ Write the command(s) that you used to determine this - as well as its output - b
 
 Write the command(s) (including going home) that you used to do this below:
 ----------
+curl http://foureyes.github.io/mtec1002-spring2014/labs/03/mtec1002-lab-03.tar.gz
 
 
 
@@ -130,7 +131,9 @@ Write the command(s) (including going home) that you used to do this below:
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
-
+ent-v314-010:books students$ cd science-fiction
+ent-v314-010:science-fiction students$ ls 
+pg84.txt        pg86.txt
 
 
 ==========
@@ -138,6 +141,8 @@ Write the command(s) that you used to do this - as well as its output - below:
 
 Write the command(s) that you used to do this below:
 ----------
+
+cd ~ 
 
 ==========
 OPTIONAL
